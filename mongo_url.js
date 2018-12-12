@@ -42,4 +42,4 @@ function buildUrl(configuration){
  		url;
 }
 
-exports.buildUrl = buildUrl;
+module.exports = buildUrl;
